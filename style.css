@@ -27,13 +27,13 @@
 	text-align: center;
 }
 
-.header__buttons {
+.header__search {
 	margin-top: 20px;
 	justify-content: center;
 	display: flex;
 }
 
-.buttons__input {
+.search__input {
 	position: absolute;
 	width: 460px;
 	height: 54px;
@@ -47,7 +47,7 @@
 		outline: none;
 }
 
-.buttons__btn {
+.search__btn {
 	left: 170px;
 	position: relative;
 	z-index: 1;
@@ -102,5 +102,5 @@
 }
 
 .card__img {
-	margin-top: 53px;
+	margin-top: 50px;
 }
